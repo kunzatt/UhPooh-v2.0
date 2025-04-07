@@ -54,5 +54,4 @@ public class PlaceEntity {
 		this.createdAt = createdAt;
 		this.updatedAt = updatedAt;
 	}
-
 }
