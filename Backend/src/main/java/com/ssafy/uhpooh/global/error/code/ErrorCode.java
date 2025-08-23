@@ -14,6 +14,8 @@ public enum ErrorCode {
 	FORBIDDEN(403, "권한이 없습니다"),
 	INVALID_ENUM_VALUE(400, "잘못된 상태값입니다");
 
+	// Authorization
+
 	private final int status;
 	private final String message;
 }
